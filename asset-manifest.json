@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/AdanGutierrez9090/6B_Shop/static/css/main.26eb3eed.css",
-    "main.js": "/AdanGutierrez9090/6B_Shop/static/js/main.87ff00f5.js",
+    "main.js": "/AdanGutierrez9090/6B_Shop/static/js/main.04a9d0dd.js",
     "static/js/787.6521655c.chunk.js": "/AdanGutierrez9090/6B_Shop/static/js/787.6521655c.chunk.js",
-    "static/media/logo.svg": "/AdanGutierrez9090/6B_Shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/AdanGutierrez9090/6B_Shop/index.html",
     "main.26eb3eed.css.map": "/AdanGutierrez9090/6B_Shop/static/css/main.26eb3eed.css.map",
-    "main.87ff00f5.js.map": "/AdanGutierrez9090/6B_Shop/static/js/main.87ff00f5.js.map",
+    "main.04a9d0dd.js.map": "/AdanGutierrez9090/6B_Shop/static/js/main.04a9d0dd.js.map",
     "787.6521655c.chunk.js.map": "/AdanGutierrez9090/6B_Shop/static/js/787.6521655c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26eb3eed.css",
-    "static/js/main.87ff00f5.js"
+    "static/js/main.04a9d0dd.js"
   ]
 }
